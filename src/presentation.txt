@@ -1,0 +1,9 @@
+------------------------------------------
+        Welcome to the Yams game !        
+               Have fun :D 
+
+       This game has been coded by 
+             Antoine Bartoli
+                    &
+             Hugo Le Glaunec
+------------------------------------------
